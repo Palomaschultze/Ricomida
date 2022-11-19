@@ -1,0 +1,60 @@
+body{
+font-family: 'Cabin', sans-serif;
+font-family: 'Lobster', cursive;
+}
+
+.navbar-brand{
+    font-family: 'Lobster'; 
+}
+
+.navbar-nav{
+    color: #ffff;
+}
+
+.row{
+    display: flex;
+    
+}
+
+
+
+#principal .image-top{
+    height: 278px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#Recetas .image-top{
+    height: 278px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+#suscribete{
+    background-color: #DC3545;
+    color: #ffff;
+    text-align: center;
+}
+#newlestter{
+    font-weight: 700;
+}
+
+#ricomida{
+    font-family: 'Lobster';
+    font-weight: 400;
+}
+
+footer {
+    font-family: 'Lobster';
+    font-weight: 400;
+    color: #ffff;
+    text-align: center; 
+    background-color: #373A3C;
+}
+
+
+
+
